@@ -1,11 +1,12 @@
 # cse342 : Advanced Programming (Java)
-CSE 342 is a hands on **Java** lab focused on implementing **Object Oriented Programming** concepts to build problem solving skills.
+CSE 342 is on **Java** lab focused on implementing **Object Oriented Programming** concepts to build problem solving skills.
 
 ## Index
-| Theory | Lab |
-|---|---|
-| [Day 01 — 05-Jan-26](./notes) | [Day 01 — 07-Jan-26](./lab-tasks/01-lab_07-01-26) |
-| [Day 02 — 08-Jan-26](./notes) | [Day 02 — 14-Jan-26](./lab-tasks)                 |
+| Day | Theory | Lab |
+|---|---|---|
+| 01 | [05-Jan-26](./notes) | [07-Jan-26](./lab-tasks/01-lab_07-01-26) |
+| 02 | [08-Jan-26](./notes) | [14-Jan-26](./lab-tasks)                 |
+
 
 
 
@@ -40,7 +41,7 @@ Java is a popular and powerful programming language, created in **1995**.  It is
 
 Reference Book
 
-[📘 Java The Complete Reference, 7th Edition by Herbert Schildt](material\textbook.pdf)
+[📘 Java The Complete Reference, 7th Edition by Herbert Schildt](material/textbook.pdf)
 
 YouTube Videos
 
