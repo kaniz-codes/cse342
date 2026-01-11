@@ -1,13 +1,13 @@
 # cse342 : Advanced Programming (Java)
-CSE 342 is on **Java** lab focused on implementing **Object Oriented Programming** concepts to build problem solving skills.
+
+CSE 342 contains my notes and lab work as I learn **Java** concepts and building problem-solving skills.
+
 
 ## Index
 | Day | Theory | Lab |
 |---|---|---|
 | 01 | [05-Jan-26](./notes) | [07-Jan-26](./lab-tasks/01-lab_07-01-26) |
 | 02 | [08-Jan-26](./notes) | [14-Jan-26](./lab-tasks)                 |
-
-
 
 
 ## Course Info
@@ -23,14 +23,15 @@ Course Credit : 3 (Theory), 1.5 (Lab)
 - **Designation:** Asst. Prof., Department of CSE  
 - **Email:** jannatul_ferdous@bubt.edu.bd  
 
+
 ## What is Java?
 Java is a popular and powerful programming language, created in **1995**.  It is owned by **Oracle**, and more than **3 billion** devices run Java.
 
 ### Java is used for
 
-- Mobile applications (specially **Android** apps)
+- Mobile applications (epecially **Android** apps)
 - Desktop applications
-- Web applications
+- Web applications  
 - Web servers and application servers
 - Games
 - Database connection
