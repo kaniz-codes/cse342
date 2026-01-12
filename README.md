@@ -6,9 +6,9 @@ CSE 342 contains my notes and lab work as I learn **Java** concepts and building
 ## Index
 | Day | Theory | Lab |
 |---|---|---|
-| 01 | [05-Jan-26](./notes) | [07-Jan-26](./lab-tasks/01-lab_07-01-26) |
-| 02 | [08-Jan-26](./notes) | [14-Jan-26](./lab-tasks)                 |
-
+| 01 | [05-Jan-26 History of Java](./notes)                        | [07-Jan-26](./lab-tasks/01-lab_07-01-26) |
+| 02 | [08-Jan-26 Class, Object, Constructor Overloading](./notes) | [14-Jan-26](./lab-tasks)                 |
+| 03 | [08-Jan-26 Method Overloading, Obj Array ](./notes)         | [14-Jan-26](./lab-tasks)                 |
 
 ## Course Info
 ```
