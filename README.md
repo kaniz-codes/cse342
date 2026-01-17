@@ -4,11 +4,12 @@ CSE 342 contains my notes and lab work as I learn **Java** concepts and building
 
 
 ## Index
-| Day | Theory | Lab |
+| Class | Theory | Lab |
 |---|---|---|
-| 01 | [05-Jan-26 History of Java](./notes)                        | [07-Jan-26]Basics(./lab-tasks/01-lab_07-01-26) |
-| 02 | [08-Jan-26 Class, Object, Constructor Overloading](./notes) | [14-Jan-26]Class, Object, Constructor Overloading(./lab-tasks/02-lab_14-01-26) |
+| 01 | [05-Jan-26 History of Java](./notes)                        | [07-Jan-26 Basics](./lab-tasks/01-lab_07-01-26) |
+| 02 | [08-Jan-26 Class, Object, Constructor Overloading](./notes) | [14-Jan-26 Class, Object, Constructor Overloading](./lab-tasks/02-lab_14-01-26) |
 | 03 | [12-Jan-26 Method Overloading, Obj Array ](./notes)         | [21-Jan-26](./lab-tasks) |
+| 04 | [15-Jan-26 Static, Inheritence, Super keyword](./notes)     | [-](./lab-tasks) |
 
 ## Course Info
 ```
