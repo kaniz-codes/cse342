@@ -7,11 +7,12 @@ CSE 342 contains my notes and lab work as I learn **Java** concepts and building
 
 | Class | Theory | Lab |
 |-----:|--------|-----|
-| 01 | [05-Jan-26<br>History of Java](./notes) | [07-Jan-26<br>Basics](./lab-tasks/01-lab_07-01-26) |
-| 02 | [08-Jan-26<br>Class, Object, Constructor<br>Constructor Overloading](./notes) | [14-Jan-26<br>Class, Object, Constructor<br>Constructor Overloading](./lab-tasks/02-lab_14-01-26) |
-| 03 | [12-Jan-26<br>Method Overloading<br>Object Array](./notes) | [21-Jan-26](./lab-tasks) |
-| 04 | [15-Jan-26<br>Static<br>Inheritance<br>super keyword](./notes) | — |
-| 05 | [19-Jan-26<br>Inheritance<br>Method Overriding<br>Runtime Polymorphism](./notes) | — |
+| 01 | [05-Jan-26](./notes) History of Java                        | [07-Jan-26](./lab-tasks/01-lab_07-01-26) Basics |
+| 02 | [08-Jan-26](./notes) Class, Object, Constructor Overloading | [14-Jan-26](./lab-tasks/02-lab_14-01-26) Class, Object, Constructor Overloading |
+| 03 | [12-Jan-26](./notes) Method Overloading, Obj Array          | [21-Jan-26](./lab-tasks) |
+| 04 | [15-Jan-26](./notes) Static, Inheritance, Super keyword     | - |
+| 05 | [19-Jan-26](./notes) Inheritance, Method Overriding, Runtime polymorphism | - |
+
 
 ## Course Info
 ```
