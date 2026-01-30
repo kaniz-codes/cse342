@@ -9,7 +9,7 @@ CSE 342 contains my notes and lab work as I learn **Java** concepts and building
 |-----:|--------|-----|
 | 01 | [05-Jan-26](./notes) History of Java                        | [07-Jan-26](./lab-tasks/01-lab_07-01-26) Basics |
 | 02 | [08-Jan-26](./practice/class-02) Class, Object, Constructor Overloading | [14-Jan-26](./lab-tasks/02-lab_14-01-26) Class, Object, Constructor Overloading |
-| 03 | [12-Jan-26](./notes) Method Overloading, Obj Array          | [21-Jan-26](./lab-tasks/03-lab_21-01-26) Inheritence |
+| 03 | [12-Jan-26](./practice/class-03) Method Overloading, Obj Array          | [21-Jan-26](./lab-tasks/03-lab_21-01-26) Inheritence |
 | 04 | [15-Jan-26](./notes) Static, Inheritance, Super keyword     | - |
 | 05 | [19-Jan-26](./notes) Inheritance, Method Overriding, Runtime polymorphism | - |
 
