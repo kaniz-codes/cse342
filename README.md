@@ -15,8 +15,8 @@ CSE 342 contains my notes and lab work as I learn **Java** concepts and building
 | 06 | [22-Jan-26](./notes) Multi-level Inheritance, Runtime polymorphism, Final | - |
 | 07 | [26-Jan-26](./notes) Runtime polymorphism with abstruct | - |
 | 08 | [29-Jan-26](./notes) Interface | - |
-| 09 | [09-Feb-26](./notes) Class test mid  | - |
-| 10 | [10-Feb-26](./notes) UML Diagram  | - |
+| 09 | [02-Feb-26](./notes) Class test mid  | - |
+| 10 | [05-Feb-26](./notes) UML Diagram  | - |
 
 
 ## Course Info
