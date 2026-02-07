@@ -13,7 +13,7 @@ class C extends B{
         System.out.println("C class");
     }
 }
-public class task1 {
+public class basicInheritance {
     public static void main(String[] args) {
         A a = new A();
         B b = new B();
