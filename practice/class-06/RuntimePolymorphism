@@ -1,0 +1,28 @@
+class A{
+    void show(){
+        System.out.println("Class A");
+    }
+    void show1(){
+        System.out.println("Another method of Class A");
+    }
+}
+
+class B extends A{
+    void show(){
+        System.out.println("Class B");
+    }
+    void show2(){
+        System.out.println("Another method of Class B");
+    }
+}
+public class RuntimePolymorphism {
+    public static void main(String[] args) {
+        B ob1 = new B();
+        A ob2;
+        ob2 = ob1;
+        ob2.show();
+        ob2.show1();
+
+        ((B) ob2).show2();
+    }
+}
