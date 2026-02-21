@@ -2,6 +2,7 @@
 
 CSE 342 contains my notes and lab work as I learn **Java** concepts and building problem-solving skills.
 
+YouTube Playlist: [**Link**](https://youtube.com/playlist?list=PL1BNWNaLmmqxszB_euOzAHPHRtlb3Rv0y&si=GhBiSZBebVWfyYUV)
 
 ## Index
 
