@@ -25,8 +25,8 @@ class Add{
 
     Add back1(Add ob){
         Add temp = new Add(24,45);
-        temp.a = a + ob.a;
-        temp.b = b + ob.b;
+        temp.a = temp.a + ob.a;
+        temp.b = temp.b + ob.b;
         return temp;
     }
 }
