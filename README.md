@@ -14,10 +14,10 @@ YouTube Playlist: [**Link**](https://youtube.com/playlist?list=PL1BNWNaLmmqxszB_
 | 04 | [15-Jan-26](./practice/class-04) Static, Inheritance, Super keyword     | [28-Jan-26](./lab-tasks/04-lab_28-01-26) Dynamic method, Abstruct class |
 | 05 | [19-Jan-26](./practice/class-05) Inheritance, Method Overriding, Runtime polymorphism | - |
 | 06 | [22-Jan-26](./practice/class-06) Multi-level Inheritance, Runtime polymorphism, Final | - |
-| 07 | [26-Jan-26] Runtime polymorphism with abstruct | - |
-| 08 | [29-Jan-26] Interface | - |
+| 07 | [26-Jan-26](./practice/class-07) Runtime polymorphism with abstruct | - |
+| 08 | [29-Jan-26](./practice/class-08) Interface | - |
 | 09 | [02-Feb-26](./ct-questions/01-sec1.md) Class test mid  | - |
-| 10 | [05-Feb-26] UML Diagram  | - |
+| 10 | [05-Feb-26](./practice/class-10) UML Diagram  | - |
 
 
 ## Course Info
