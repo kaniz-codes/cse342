@@ -4,6 +4,20 @@ CSE 342 contains my notes and lab work as I learn **Java** concepts and building
 
 YouTube Playlist: [**Link**](https://youtube.com/playlist?list=PL1BNWNaLmmqxszB_euOzAHPHRtlb3Rv0y&si=GhBiSZBebVWfyYUV)
 
+## Course Info
+```
+Course Title  : Advanced Programming
+Course Code   : CSE 341 (Theory), CSE 342 (Lab)
+Course Credit : 3 (Theory), 1.5 (Lab)
+```
+
+## Course Instructor
+
+- **Teacher:** Most. Jannatul Ferdous (MJF)  
+- **Designation:** Asst. Prof., Department of CSE  
+- **Email:** jannatul_ferdous@bubt.edu.bd  
+
+
 ## Index
 
 | Class | Theory | Lab |
@@ -18,20 +32,12 @@ YouTube Playlist: [**Link**](https://youtube.com/playlist?list=PL1BNWNaLmmqxszB_
 | 08 | [29-Jan-26](./practice/class-08) Interface | - |
 | 09 | [02-Feb-26](./ct-questions/01-sec1.md) Class test mid  | - |
 | 10 | [05-Feb-26](./practice/class-10) UML Diagram  | - |
-
-
-## Course Info
-```
-Course Title  : Advanced Programming
-Course Code   : CSE 341 (Theory), CSE 342 (Lab)
-Course Credit : 3 (Theory), 1.5 (Lab)
-```
-
-## Course Instructor
-
-- **Teacher:** Most. Jannatul Ferdous (MJF)  
-- **Designation:** Asst. Prof., Department of CSE  
-- **Email:** jannatul_ferdous@bubt.edu.bd  
+| 11 | [05-Mar-26](./practice/class-11) Exception Handling  | - |
+| 12 | [30-Mar-26] String Handling  | - |
+| 13 | [02-Apr-26] Java Collection Framework  | - |
+| 14 | [06-Apr-26] Java Collection Framework  | - |
+| 14 | [09-Apr-26] Multithread  | - |
+| 14 | [12-Apr-26] Generics  | - |
 
 
 ## What is Java?
