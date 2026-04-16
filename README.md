@@ -34,8 +34,8 @@ Course Credit : 3 (Theory), 1.5 (Lab)
 | 10 | [05-Feb-26](./practice/class-10) UML Diagram  | - |
 | 11 | [05-Mar-26](./practice/class-11) Exception Handling  | - |
 | 12 | [30-Mar-26] String Handling  | - |
-| 13 | [02-Apr-26] Java Collection Framework  | - |
-| 14 | [06-Apr-26] Java Collection Framework  | - |
+| 13 | [02-Apr-26] Java Collection Framework (Arraylist, Linkedlist, Queue, Stack, Iterator)  | - |
+| 14 | [06-Apr-26] Java Collection Framework (Set, Map, Example)  | - |
 | 14 | [09-Apr-26] Multithread  | - |
 | 14 | [12-Apr-26] Generics  | - |
 
