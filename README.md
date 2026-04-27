@@ -2,7 +2,7 @@
 
 CSE 342 contains my notes and lab work as I learn **Java** concepts and building problem-solving skills.
 
-YouTube Playlist: [**Link**](https://youtube.com/playlist?list=PL1BNWNaLmmqxszB_euOzAHPHRtlb3Rv0y&si=GhBiSZBebVWfyYUV)
+YouTube Playlist: [Java Playlist](https://youtube.com/playlist?list=PL1BNWNaLmmqxszB_euOzAHPHRtlb3Rv0y&si=GhBiSZBebVWfyYUV)
 
 ## Course Info
 ```
@@ -25,19 +25,20 @@ Course Credit : 3 (Theory), 1.5 (Lab)
 | 01 | [05-Jan-26](./notes) History of Java                        | [07-Jan-26](./lab-tasks/01-lab_07-01-26) Basics |
 | 02 | [08-Jan-26](./practice/class-02) Class, Object, Constructor Overloading | [14-Jan-26](./lab-tasks/02-lab_14-01-26) Class, Object, Constructor Overloading |
 | 03 | [12-Jan-26](./practice/class-03) Method Overloading, Obj Array          | [21-Jan-26](./lab-tasks/03-lab_21-01-26) Inheritence |
-| 04 | [15-Jan-26](./practice/class-04) Static, Inheritance, Super keyword     | [28-Jan-26](./lab-tasks/04-lab_28-01-26) Dynamic method, Abstruct class |
+| 04 | [15-Jan-26](./practice/class-04) Static, Inheritance, Super keyword     | [28-Jan-26](./lab-tasks/04-lab_28-01-26) Dynamic method, Abstract class |
 | 05 | [19-Jan-26](./practice/class-05) Inheritance, Method Overriding, Runtime polymorphism | - |
 | 06 | [22-Jan-26](./practice/class-06) Multi-level Inheritance, Runtime polymorphism, Final | - |
-| 07 | [26-Jan-26](./practice/class-07) Runtime polymorphism with abstruct | - |
+| 07 | [26-Jan-26](./practice/class-07) Runtime polymorphism with Abstract | - |
 | 08 | [29-Jan-26](./practice/class-08) Interface | - |
 | 09 | [02-Feb-26](./ct-questions/01-sec1.md) Class test mid  | - |
 | 10 | [05-Feb-26](./practice/class-10) UML Diagram  | - |
 | 11 | [05-Mar-26](./practice/class-11) Exception Handling  | - |
-| 12 | [30-Mar-26] String Handling  | - |
-| 13 | [02-Apr-26] Java Collection Framework (Arraylist, Linkedlist, Queue, Stack, Iterator)  | - |
-| 14 | [06-Apr-26] Java Collection Framework (Set, Map, Example)  | - |
-| 14 | [09-Apr-26] Multithread  | - |
-| 14 | [12-Apr-26] Generics  | - |
+| 12 | [30-Mar-26](./topics/StringHandling) String Handling  | - |
+| 13 | [02-Apr-26](./topics/JavaCollectionFramework) Java Collection Framework (ArrayList, LinkedList, Queue, Stack, Iterator)  | - |
+| 14 | [06-Apr-26](./topics/JavaCollectionFramework) Java Collection Framework (Set, Map, Example)  | - |
+| 15 | [09-Apr-26] Multithreading  | - |
+| 16 | [13-Apr-26](./topics/Generics) Generics  | - |
+| 17 | [20-Apr-26](./topics/File) File Create, Read & Write  | - |
 
 
 ## What is Java?
@@ -45,7 +46,7 @@ Java is a popular and powerful programming language, created in **1995**.  It is
 
 ### Java is used for
 
-- Mobile applications (epecially **Android** apps)
+- Mobile applications, especially **Android** apps
 - Desktop applications
 - Web applications  
 - Web servers and application servers
